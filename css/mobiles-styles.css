@@ -1,0 +1,29 @@
+
+
+/*===== @MEDIA QUERY ====*/
+
+@media screen and (max-width: 425px){
+    .welcome .display-3{
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    }
+    .display-3 {
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.2;
+    }
+   .services h1{
+       font-size: 2rem !important;
+   }
+   .welcome{
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+   }
+    .welcome h1{
+   font-size: 2rem;
+   }
+   .reviews-text{
+       font-size: 1.5rem;
+   }
+}
